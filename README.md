@@ -79,11 +79,24 @@ Generating Realistic Stock Market Order Streams</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(39).pdf" style="text-decoration:none;">Algorithmic Trading and Machine Learning Based on GPU</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(40).pdf" style="text-decoration:none;">Review on Stock Market Forecasting and Analysis</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(41).pdf" style="text-decoration:none;">Big Data: Deep Learning for financial sentiment analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(42).pdf" style="text-decoration:none;">Generating Images with Perceptual Similarity Metrics based on Deep Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(42).pdf" style="text-decoration:none;">Deep Direct Reinforcement Learning for Financial Signal Representation and Trading</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(43).pdf" style="text-decoration:none;">Recipe For Quantitative Trading With Machine Learning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(44).pdf" style="text-decoration:none;">Deep Execution - Value and Policy Based Reinforcement Learning for Trading and Beating Market Benchmarks</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(45).pdf" style="text-decoration:none;">Exploring Possible Improvements to Momentum Strategies with Deep Learning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(46).pdf" style="text-decoration:none;">Composing graphical models with neural networks for structured representations and fast inference</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(46).pdf" style="text-decoration:none;">Does Algorithmic Trading Improve Liquidity?</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(47).pdf" style="text-decoration:none;">Machine Learning Methods in Algorithmic Trading Strategy Optimization – Design and Time Efficiency</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(48).pdf" style="text-decoration:none;">Algorithmic Trading Using Deep Neural Networks on High Frequency Data</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Algorithmic-Trading-DL-Papers/blob/master/atd(49).pdf" style="text-decoration:none;">Artificial intelligence in finance</a></li>
+    
+
+
+
+
+
+
+
    </ul>
